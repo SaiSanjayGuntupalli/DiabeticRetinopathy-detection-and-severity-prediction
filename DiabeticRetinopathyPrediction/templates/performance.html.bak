@@ -1,0 +1,11 @@
+{% extends "base.html" %} {% block content %}
+
+<h2 align="center">Diabetic Retinopathy Prediction Using AI</h2>
+
+<div align="center">
+    
+	<img src="static/plot1.png">
+
+</div>
+
+{% endblock %}
