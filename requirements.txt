@@ -7,6 +7,5 @@ notebook
 flask
 tensorflow
 keras==2.2.5
-hspy==2.16.0
 utils
 statsmodels
