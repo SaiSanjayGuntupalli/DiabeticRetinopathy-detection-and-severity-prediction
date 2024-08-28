@@ -5,7 +5,7 @@ scikit-learn
 jupyter
 notebook
 flask
-tensorflow==1.14.6
+tensorflow
 keras==2.2.5
 hspy==2.16.0
 utils
